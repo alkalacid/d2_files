@@ -1,0 +1,48 @@
+{
+  "cars": [
+    {
+      "id": "1HGCV1F50KA035854",
+      "year": "2019",
+      "make": "Hyundai",
+      "model": "Solaris",
+      "model trim": "17442F45",
+      "techincal options" : {
+          "engine": {
+            "fuel" : "Benzin",
+            "power" : "149",
+            "capacity" : "1,6"
+          },
+          "transmission" : "MT",
+          "drive" : "AWD"
+      },
+      "other options" : {
+          "exterior" : null,
+          "interior" : [
+            "Подогрев руля",
+            "Салон из кожи Nappa",
+            "Камера кругового обзора",
+            "Центральный подлокотник спереди", 
+            "Вставки центральной консоли из дерева"
+          ],
+          "safety" : [
+            "ЭРА Глонасс",
+            "6 подушек безопасности",
+            "Передние подголовники с механизмом травмобезопасного демпфирования",
+            "3-точечные ремни безопасности спереди с регулировкой высоты и преднатяжителями"
+          ]
+      },
+      "colors" : {
+        "interior" : null,
+        "exterior" : "Marina blue"
+      },
+      "images" : [
+        "/media/images/flat/SL2017/360/Solaris-2017_Colors-Marina-Blue1.png",
+        "/media/images/flat/SL2017/360/Solaris-2017_Colors-Marina-Blue2.png",
+        "/media/images/flat/SL2017/360/Solaris-2017_Colors-Marina-Blue3.png",
+        "/media/images/flat/SL2017/360/Solaris-2017_Colors-Marina-Blue4.png",
+        "/media/images/flat/SL2017/360/Solaris-2017_Colors-Marina-Blue5.png"
+      ],
+      "price" : "520000"
+    }
+  ]
+}
